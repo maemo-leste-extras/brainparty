@@ -2,7 +2,7 @@ Source: brainparty
 Section: user/games
 Priority: extra
 Maintainer: Thomas Perl <thp@thpinfo.com>
-Build-Depends: debhelper (>= 5), libsdl-ttf2.0-dev, libsdl-mixeroggwav1.2-dev, libsdl-image1.2-dev, libsdl-gfx1.2-dev, libsdl1.2-dev, libgles1-mesa-dev, libsdl-mixer1.2-dev, libsdl-ttf2.0-dev, libsdl-gfx1.2-dev
+Build-Depends: debhelper (>= 5), libsdl-ttf2.0-dev, libsdl-image1.2-dev, libsdl-gfx1.2-dev, libsdl1.2-dev, libgles1-mesa-dev, libsdl-mixer1.2-dev, libsdl-ttf2.0-dev, libsdl-gfx1.2-dev
 Standards-Version: 3.7.2
 XSB-Homepage: http://tuxradar.com/brainparty
 XSBC-Bugtracker: mailto:thp@thpinfo.com
