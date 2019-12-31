@@ -9,7 +9,7 @@ XSBC-Bugtracker: mailto:thp@thpinfo.com
 
 Package: brainparty
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, brainparty-data (>= 0.5.91), libgles1-sgx-img, libvorbisidec1, libsdl-gles1.2
+Depends: ${shlibs:Depends}, ${misc:Depends}, brainparty-data (>= 0.5.91), libvorbisidec1, libsdl-gles1.2-1
 Description: A puzzle game to tease your brain
  Brain Party is a fun, free puzzle game for all the
  family that's made up of 36 minigames designed to
