@@ -56,9 +56,9 @@ class BPMiniGame;
 class SpriteFont;
 
 struct cmp_str {
-	bool operator()(char const *a, char const *b) {
-		return std::strcmp(a, b) < 0;
-	}
+    bool operator()(const char* a, const char* b) const {
+        return strcmp(a, b) < 0;
+    }
 };
 
 class BPGame {

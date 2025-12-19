@@ -1,3 +1,9 @@
+brainparty (0.5.93) fremantle; urgency=low
+
+  * bpgame.h: fix gcc 14 compilation
+
+ -- Sander <code@kroket.io>  Thu, 19 Dec 2025 08:49:15 +0100
+
 brainparty (0.5.92) fremantle; urgency=low
 
   * Initial Leste import
